@@ -13,10 +13,10 @@
 - Frontend Web Development
 - Backend Web Development
 - System Design
+- DSA
 - UI/UX Design
 
 📚 I'm currently learning:
-- 🐍 Python (for scripting and backend)
 - 🟨 JavaScript (for frontend development)
 - 🐬 MySQL (for databases)
 - 🎨 Figma (for UI/UX design)
