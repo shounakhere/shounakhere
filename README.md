@@ -9,18 +9,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-💡 I'm interested in:
-- Frontend Web Development
-- Backend Web Development
-- System Design
-- DSA
-- UI/UX Design
-
-📚 I'm currently learning:
-- 🟨 JavaScript (for frontend development)
-- 🐬 MySQL (for databases)
-- 🎨 Figma (for UI/UX design)
-
 📫 How to reach me:
 - 📧 Email: shounaksarkar07@gmail.com
 - 💼 LinkedIn: www.linkedin.com/in/shounak-sarkar-b4363b257
