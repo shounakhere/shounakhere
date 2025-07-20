@@ -2,13 +2,15 @@
 
 🛠️ Tech Stack
 
-![HTML5](https://img.shields.io/badge/-transparent?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/-transparent?style=for-the-badge&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-transparent?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![C](https://img.shields.io/badge/-transparent?style=for-the-badge&logo=c&logoColor=00599C)
-![C++](https://img.shields.io/badge/-transparent?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
-![Python](https://img.shields.io/badge/-transparent?style=for-the-badge&logo=python&logoColor=3776AB)
-![MySQL](https://img.shields.io/badge/-transparent?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![HTML5](https://img.shields.io/badge/-111111?style=flat&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/-111111?style=flat&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-111111?style=flat&logo=javascript&logoColor=F7DF1E)
+![C](https://img.shields.io/badge/-111111?style=flat&logo=c&logoColor=00599C)
+![C++](https://img.shields.io/badge/-111111?style=flat&logo=c%2B%2B&logoColor=00599C)
+![Python](https://img.shields.io/badge/-111111?style=flat&logo=python&logoColor=3776AB)
+![MySQL](https://img.shields.io/badge/-111111?style=flat&logo=mysql&logoColor=4479A1)
+![Figma](https://img.shields.io/badge/-111111?style=flat&logo=figma&logoColor=F24E1E)
+
 
 
 
