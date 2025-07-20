@@ -2,15 +2,14 @@
 
 🛠️ Tech Stack
 
-![HTML5](https://img.shields.io/badge/-111111?style=flat&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/-111111?style=flat&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-111111?style=flat&logo=javascript&logoColor=F7DF1E)
-![C](https://img.shields.io/badge/-111111?style=flat&logo=c&logoColor=00599C)
-![C++](https://img.shields.io/badge/-111111?style=flat&logo=c%2B%2B&logoColor=00599C)
-![Python](https://img.shields.io/badge/-111111?style=flat&logo=python&logoColor=3776AB)
-![MySQL](https://img.shields.io/badge/-111111?style=flat&logo=mysql&logoColor=4479A1)
-![Figma](https://img.shields.io/badge/-111111?style=flat&logo=figma&logoColor=F24E1E)
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
 
 
 
