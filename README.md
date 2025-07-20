@@ -13,7 +13,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
 </p>
 
-
+### 🧰 Tech Stack
+![Languages](https://skillicons.dev/icons?i=html,css,js,c,cpp,python)
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,linux)
 
 📫 How to reach me:
 - 📧 Email: shounaksarkar07@gmail.com
@@ -21,8 +23,3 @@
 
 🎯 Fun fact:
 > I'm on a mission to crack a top tech job 😃
-
-<!---
-shounakhere/shounakhere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
