@@ -9,7 +9,7 @@
 - 🧠 Exploring **Data Structures and Algorithms (DSA)** via Apna College
 - 🛠️ Building a strong foundation in **Web Development** (HTML, CSS, JS)
 - 💪 Balancing college, self-study, and fitness
-- 
+
 ### 📫 How to reach me:
 - 📧 Email: shounaksarkar07@gmail.com
 - 💼 LinkedIn: www.linkedin.com/in/shounak-sarkar-b4363b257
