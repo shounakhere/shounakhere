@@ -6,7 +6,7 @@
 
 ### 🚀 What I'm Currently Working On
 - 📚 Learning **C Programming** and **JavaScript**
-- 🧠 Exploring **Data Structures and Algorithms (DSA)** via Apna College
+- 🧠 Exploring **Data Structures and Algorithms (DSA)**
 - 🛠️ Building a strong foundation in **Web Development** (HTML, CSS, JS)
 - 💪 Balancing college, self-study, and fitness
 
