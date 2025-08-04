@@ -5,7 +5,7 @@
 ![Tools](https://skillicons.dev/icons?i=git,github,vscode)
 
 ### 🚀 What I'm Currently Working On
-- 📚 Learning **C ** and **React**
+- 📚 Learning **C** and **React**
 - 🧠 Exploring **Data Structures and Algorithms (DSA)**
 - 🛠️ Building a strong foundation in **Web Development** (HTML, CSS, JS)
 - 💪 Balancing college, self-study, and fitness
