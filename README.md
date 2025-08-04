@@ -13,6 +13,3 @@
 ### 📫 How to reach me:
 - 📧 Email: shounaksarkar07@gmail.com
 - 💼 LinkedIn: www.linkedin.com/in/shounak-sarkar-b4363b257
-
-### 🎯 Fun fact:
-> I'm on a mission to crack a top tech job 😃
