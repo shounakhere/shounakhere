@@ -6,7 +6,7 @@
 
 ### 🚀 What I'm Currently Working On
 - 📚 Learning **C** and **React**
-- 🧠 Exploring **Data Structures and Algorithms (DSA)**
+- 🧠 AI & ML Enthusiast
 - 🛠️ Building a strong foundation in **Web Development** (HTML, CSS, JS)
 - 💪 Balancing college, self-study, and fitness
 
